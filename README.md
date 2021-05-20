@@ -1,4 +1,4 @@
-Marko Vite from dev.to post
+Marko Vite project from dev.to post
 ==================================
 
 ## Getting Started
